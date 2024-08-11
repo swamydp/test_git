@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/test_mhello/.vs/test_mhello
+/test_mhello/test_mhello/test_mhello/x64/Debug
+/test_mhello/test_mhello/x64/Debug
+/.vs
